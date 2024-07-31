@@ -4,7 +4,7 @@ TaskWise is a simple web application that empowers users to efficiently manage t
 
 ## ![Screenshot of the Speakify app](images/taskwise_screenshot.png)
 
-## [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)]()
+## [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://taskwise-ygza.onrender.com)
 
 ## 🛠️ Tech Stack
 
