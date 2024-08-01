@@ -2,7 +2,7 @@
 
 TaskWise is a simple web application that empowers users to efficiently manage their tasks. With TaskWise, you can seamlessly do CRUD operation, that is add, read, edit, and remove tasks on the fly. Keeping your productivity at its peak.
 
-## ![Screenshot of the Speakify app](images/taskwise_screenshot.png)
+## ![Screenshot of the TaskWise app](images/taskwise_screenshot.png)
 
 ## [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://taskwise-ygza.onrender.com)
 
